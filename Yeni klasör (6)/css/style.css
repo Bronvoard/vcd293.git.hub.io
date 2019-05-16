@@ -1,0 +1,42 @@
+body{
+	background: #eee;
+	font-size: 13px;
+	font-family: Arial;
+	margin: 0;
+	
+}</body>
+b{font-style: italic;}
+
+
+
+<style>
+h2 {
+  color: blue;
+  font-family: verdana;
+  font-size: 100%;
+}
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 100%;
+}
+p2 {
+  
+  margin: 550px; 
+  margin-top:400;
+  margin-left:322 ;
+}
+
+</style>
+
+<style>
+			a:visited{
+				color: rgb(0,0,238);
+			}
+			body{
+				width: 90%;
+				max-width: 960px;
+				margin: 0 auto;
+			}
+		</style>
+
